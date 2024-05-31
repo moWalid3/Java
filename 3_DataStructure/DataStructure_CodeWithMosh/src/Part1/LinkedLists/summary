@@ -1,0 +1,23 @@
+
+Linked Lists :
+
+- The second most used data structure after arrays
+
+- Grow and shrink automatically with out wasting memory
+
+- Take a bit more memory -> because each node should have a reference to the next
+
+RUNTIME COMPLEXITY :
+
+    Lookup
+            By index      O(n)
+            By value      O(n)
+
+    insert
+            Beginning/End O(n)
+            Middle        O(n)
+
+    Delete
+            Beginning     O(1)
+            Middle        O(n)
+            End           O(n)  -> in Doubly Linked List O(1)

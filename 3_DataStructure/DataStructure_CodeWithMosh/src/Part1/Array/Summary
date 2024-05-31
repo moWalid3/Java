@@ -1,0 +1,22 @@
+
+Arrays :
+
+- is simplest data structure
+
+- static vs dynamic :
+  - in java is static -> grow and shrink is not automatically.
+  - but you can handel it became a dynamic or use a ArrayList<type>.
+  - ArrayList<T>   if gets full it will grow by 50% of it's size.
+
+
+RUNTIME COMPLEXITIES
+
+    Lookup by index   O(1)
+    Lookup by value   O(n)
+
+    Insert            O(n)
+
+    Delete            O(1)
+
+    Max               O(n)
+

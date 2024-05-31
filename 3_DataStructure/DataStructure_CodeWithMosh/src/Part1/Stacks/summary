@@ -1,0 +1,6 @@
+
+Stack :
+
+- Last-In First-Out (LIFO)
+- Can be implemented using Arrays / LinkedLists
+- All operations run in constant time of O(1)

@@ -1,0 +1,6 @@
+Face Book
+_________________________________________________________________
+user (id,fullName,email,phone,password,list<Role>,List<Post>,List<Comment>,List<Like>)
+
+Role (id,name,user)  ROLE_USER , ROLE_ADMIN , ROLE_MANGER
+_________________________________________________________________
